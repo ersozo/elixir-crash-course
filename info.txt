@@ -1,0 +1,9 @@
+Elixir crash course:
+    - Data Types
+    - Variables
+    - Functions
+    - Modules
+    - Classes
+    - Exceptions
+    - Threads
+    - Metaprogramming
