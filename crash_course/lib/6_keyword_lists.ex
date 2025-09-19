@@ -4,10 +4,10 @@
 # Keyword lists are often used in Elixir for configuration and options.
 
 # verbose way
-function(arg1, [{:key, value}])
+# function(arg1, [{:key, value}])
 
 # less verbose way
-function(arg1, key: value)
+# function(arg1, key: value)
 
 # common way
-function(arg1, key: value)
+# function(arg1, key: value)
