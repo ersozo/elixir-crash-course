@@ -6,22 +6,27 @@
 # mix commands
 
 # to start a new mix project
-mix(new(my_project))
-
+'''
+mix new <my_project>
+'''
 # format the code in the project
-mix(format)
-
+'''
+mix format
+'''
 # check if the code is formatted
-mix(format) -- (check - formatted)
-
+'''
+mix format -- (check - formatted)
+'''
 # Compile the source files of the project
-mix(compile)
-
+'''
+mix compile
+'''
 # Run the tests for the project
-mix(test)
-
+'''
+mix test
+'''
 # Run the application
-mix(run)
+mix run
 
 # folder-file structure of a typical mix project
 #
